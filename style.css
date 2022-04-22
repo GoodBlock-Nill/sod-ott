@@ -1,0 +1,40 @@
+main {
+  position: relative;
+  background-color: black;
+}
+main img{
+  width: 100%;
+}
+
+.sub1 {
+ width: 490px;
+ height: 180px;
+ position: absolute;
+ top: 580px;
+ left: 270px;
+}
+
+.sub2 {
+  width: 490px;
+  height: 180px;
+  position: absolute;
+  top: 580px;
+  left: 810px;
+
+ }
+
+ .sub3 {
+  width: 490px;
+  height: 180px;
+  position: absolute;
+  top: 580px;
+  left: 1360px;
+ }
+
+ .home {
+  width: 380px;
+  height: 110px;
+  position: absolute;
+  top: 65px;
+  left: 50px;
+ }
